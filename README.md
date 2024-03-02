@@ -1,4 +1,6 @@
-**Diabetes Patient Project**
+<img src="diabetes.jpg" alt="Diabetes Patient Project">
+
+# **Diabetes Patient Project**
 
 ---
 
